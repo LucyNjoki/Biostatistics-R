@@ -1,1 +1,23 @@
+To get the frequencies:
 
+> table()
+
+Relative frequencies
+
+table() / length()
+
+Cumulative Relative Frequencies
+
+1. Get the intervals
+
+>hist(x, breaks = , plot = FALSE)
+
+2. Get the cumulative frequencies
+
+>cumsum()
+
+3. Cumulative relative frequeicies
+
+> cumsum() / length()
+
+Acknowledge: Ananda Mahto - [https://cnx.org/contents/2EatJ9w-@14.1:yTlmgmzh@4/Frequency-Relative-Frequency-and-Cumulative-Frequency]
